@@ -1,11 +1,7 @@
 streamlit
 pandas
-plotly.express
+plotly
 folium
 streamlit_folium
-koboextractor  
-KoboExtractor
-ast
+koboextractor
 datetime
-datetime
-
