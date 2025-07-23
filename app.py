@@ -104,7 +104,7 @@ for idx, row in df.iterrows():
 st_folium(m, width=2000, height=500)
 
 # Display the map
-st_folium(m, width=2000, height=500)
+
 # Victims by Emergency Type
 st.subheader("Number of Victims by Emergency Type")
 victims_data = df[df['Emergency_Type'].notna() & df['Number_of_Victims'].notna()]
