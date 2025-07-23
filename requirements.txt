@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly.express
+folium
+streamlit_folium
+koboextractor  
+KoboExtractor
+ast
+datetime
+datetime
+
